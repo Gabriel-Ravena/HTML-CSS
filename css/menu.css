@@ -1,0 +1,21 @@
+header {
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.menu-principal {
+    width: 100%;
+}
+
+.nav {
+    background: #000;
+}
+
+.nav-link {
+    color: #fff;
+    font-size: 20px;
+    padding-left: 30px;
+}
+
+

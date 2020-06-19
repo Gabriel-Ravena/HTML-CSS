@@ -1,0 +1,47 @@
+.contenido {
+    width: 96%;
+    margin-left: 2%;
+    float: left;
+    margin-bottom: 10px;
+}
+
+.contenido-2 {
+    width: 96%;
+    margin-left: 2%;
+    background: #ccc;
+    float: left;
+    margin-top: 10px;
+}
+
+.card {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.titulo-texto {
+    width: 70%;
+    float: left;
+}
+
+.img-contenido img {
+    float: right;
+    background: #ff0000;
+}
+
+.card-title{
+    color: #000;
+    font-size: 35px;
+    font-family: sans-serif;
+    text-align: left; 
+}
+
+footer {
+    width: 100%;
+    background: #000;
+    color: #fff;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: right;
+    padding: 10px;
+    float: left;
+}
